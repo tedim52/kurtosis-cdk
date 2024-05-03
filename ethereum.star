@@ -1,5 +1,5 @@
 ethereum_package = import_module(
-    "github.com/kurtosis-tech/ethereum-package/main.star@latest"
+    "github.com/kurtosis-tech/ethereum-package/main.star"
 )
 
 GETH_IMAGE = "ethereum/client-go:v1.14.0"
